@@ -1,4 +1,4 @@
-#What is Tamagotchi?
+# What is Tamagotchi?
 Tamagotchi was a huge toy fad in the late ’90s and early 2000s - essentially, they were small pet simulators that entrusted the care of a digital creature to a player. We will be building a very paired-down game based on this premise. For our purposes, the game of Tamagotchi consists of the following:
 
 It’s a one-player game.
