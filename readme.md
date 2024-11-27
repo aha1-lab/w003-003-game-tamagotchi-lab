@@ -5,9 +5,9 @@ It’s a one-player game.
 The player is tasked with keeping a creature happy.
 Each creature a player ‘raises’ has three main statistics.
 The stats are:
-Boredom
-Hunger
-Sleepiness
+- Boredom
+- Hunger
+- Sleepiness
 To keep the creature happy, a player must keep three stats within a given range - greater than 0 and less than 10.
 
 # Minimum Requirements
